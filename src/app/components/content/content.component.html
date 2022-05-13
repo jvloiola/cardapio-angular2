@@ -1,0 +1,33 @@
+ <div #container class="container-fluid w-auto p-3 row">
+   <figure *ngFor="let item of listaMenu" class="container col-2">
+     <a routerLinkActive="active" routerLink={{item.link}}>
+       <img class="card-img-top" src={{item.enderecoImagem}} alt="Card image cap">
+
+       <figcaption class="card-title">{{item.titulo}}</figcaption>
+     </a>
+
+
+   </figure>
+
+ </div>
+ <!-- <ul class="menu-list">
+  <li class="li">
+    <figure class="menu-item wines" title="Wines">
+      <img src="assets/imagens/dadinho.jpg" />
+      <figcaption>Foods</figcaption>
+    </figure>
+  </li>
+  <li class="li">
+    <figure class="menu-item wines" title="Wines">
+      <img src="assets/imagens/drinks.webp" />
+      <figcaption>Drinks</figcaption>
+    </figure>
+  </li>
+  <li class="li">
+    <figure class="menu-item wines" title="Wines">
+      <img src="assets/imagens/white_wine.webp" />
+      <figcaption>Wines</figcaption>
+    </figure>
+  </li>
+</ul>
+ -->

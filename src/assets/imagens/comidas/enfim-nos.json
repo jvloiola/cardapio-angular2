@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Banoffe",
+        "description": "Banana com doce de leite com chantilly e calda de chocolate meio amargo belga e biscoito.",
+        "price": "R$ 29,00",
+        "img":""
+    },
+    {
+        "name": "Panacota de morango",
+        "description": "de frutas vermelhas",
+        "price": "R$ 33,00",
+        "img":""
+    }
+]

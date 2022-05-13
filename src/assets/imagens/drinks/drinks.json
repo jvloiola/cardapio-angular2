@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Caipirinha",
+        "description":"",
+        "price":"R$ 32,00",
+        "img":""
+    },
+    {
+        "name":"Caipvodka",
+        "description":"",
+        "price":"R$ 39,00",
+        "img":""
+    },
+    {
+        "name":"Caipsaquê",
+        "description":"",
+        "price":"R$ 39,00",
+        "img":""
+    },
+    {
+        "name":"Caipsolut",
+        "description":"",
+        "price":"R$ 45,00",
+        "img":""
+    }
+]

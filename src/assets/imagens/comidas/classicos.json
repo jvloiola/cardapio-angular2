@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Batata Clássico",
+        "description": "Batatas crocantes com salsa vierge, aioli e salsa brava.",
+        "price": "R$ 42,00",
+        "img":""
+    },
+    {
+        "name": "Filé Aperitivo",
+        "description": "Essa receita peruana é uma das mais apreciadas pelo mundo! Confira a nossa versão com o peixe em ponta de faca, cebola roxa, especiarias, milho torrado e lâminas de batata doce.",
+        "price": "R$ R$ 58,00",
+        "img":""
+    },
+    {
+        "name": "Croquete de Camarão",
+        "description": "6 unidades",
+        "price": "R$ 46,00",
+        "img":""
+    },
+    {
+        "name": "Dadinhos com melaço",
+        "description": "Crocantes dadinhos feitos com tapioca e queijo coalho e melaço.",
+        "price": "R$ 42,00",
+        "img":""
+    },
+    {
+        "name": "Bolinho de bacalhau",
+        "description": "6 unidades.",
+        "price": "R$ 42,00",
+        "img":""
+    } 
+]

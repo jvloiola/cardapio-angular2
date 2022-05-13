@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Couvert",
+        "description": "Guacamole",
+        "price": "R$ 32,00",
+        "img":""
+    },
+    {
+        "name": "Ceviche Clássico",
+        "description": "Essa receita peruana é uma das mais apreciadas pelo mundo! Confira a nossa versão com o peixe em ponta de faca, cebola roxa, especiarias, milho torrado e lâminas de batata doce.",
+        "price": "R$ R$ 58,00",
+        "img":""
+    },
+    {
+        "name": "Salmão tartar trufado",
+        "description": "Tartar de salmão temperado com azeite trufado e amêndoas assadas. Acompanha chips de aipim.",
+        "price": "R$ 81,00",
+        "img":""
+    },
+    {
+        "name": "Camarões grelhados",
+        "description": "Ao alho e óleo",
+        "price": "R$ 110,00",
+        "img":""
+    },
+    {
+        "name": "Tartar de atum da Thay",
+        "description": "Tartar de atum da Chef Thay",
+        "price": "R$ 62,00",
+        "img":""
+    }
+]

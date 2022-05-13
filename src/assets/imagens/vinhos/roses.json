@@ -1,0 +1,41 @@
+[        
+    {
+        "name":"Estandon Brise Marine Rosé",
+        "description":"Belissima expressão de um rosé da apelação Mediterraanée. Na taça apresenta cor rosa bem clara, típica dos vinhos da região. No nariz o leque aromático é bem definido, onde predomina cassis e frutas de bosque. Em boca um vinho bem equilibrado, agradável e fácil de beber. Espetacular pelo preço!",
+        "country":"França",
+        "location":"Provence",
+        "type":"Rose",
+        "price":"R$ 189,00",
+        "img":""
+    },
+    {
+        "name":"Escorihuela Familia Gascon Malbec Rosé",
+        "description":"Esse é um rosé daqueles que nos fazem suspirar! Delicado do início ao fim, com aromas de frutas vermelhas frescas e flores brancas. Em boca é mais ousado, sensual, com taninos macios, acidez e frescor.",
+        "country":"Argentina",
+        "location":"Agrelo, Escorihuela Gascon",
+        "type":"Rose",
+        "grape":"Malbec",
+        "price":"R$ 179,00",
+        "img":""
+    },
+    {
+        "name":"Mancura Etnia Rose , 2021",
+        "description":"Refrescante, leve e frutado. Delicioso, fácil de beber e de harmoniza fácil com pratos. ",
+        "country":"Chile",
+        "location":"Vale Central, Viña Mancura ",
+        "grape":"Cabernet Sauvignon, Merlot",
+        "type":"Rose",
+        "price":"R$ 130,00",
+        "img":""
+    },
+    {
+        "name":"Mannara Pinot Grigio Rosé , 2019",
+        "description":" Vinho rosé com reflexos delicados apresenta bouquet de frutas frescas e floral, notas de melão maduro e rosas. Ótima acidez e frescor, delicado e leve no paladar.",
+        "country":"Itália",
+        "location":"Sicilia, Barone Montalto",
+        "grape":"Pinot Grigio",
+        "type":"Rose",
+        "price":"R$ 149,00",
+        "img":""
+    }
+]

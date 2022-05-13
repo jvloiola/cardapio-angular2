@@ -1,0 +1,32 @@
+[
+    {          
+        "name": "Atum selado",
+        "description": " Filé de atum selado com gergelim, purê de batata baroa com wasabi e molho teriyaki. ",
+        "price": " R$ 79,00 ",
+        "img":""
+    },
+    {          
+        "name": "Mignon com purê de batata baroa trufado",
+        "description": " Mignon, purê de baroa, mini legumes orgânicos, salsa tomate vierge e azeite trufado. ",
+        "price": "R$ 89,00",
+        "img":""
+    },
+    {          
+        "name": "Dourado com arroz ao limone",
+        "description": "Dourado com arroz ao limone, legumes orgânicos, lâmina de amêndoas assadas e salsa vierge.",
+        "price": "R$ 89,00",
+        "img":""
+    },
+    {          
+        "name": "Poke bowl",
+        "description": "A salada moderninha feita com quinoa, rúcula, cenoura, gengibre, tomates, cebola crispy e amêndoas.",
+        "price": "R$ 44,00",
+        "img":""
+    },
+    {          
+        "name": "Salmão grelhado da Thay",
+        "description": "Salmão grelhado com spaghetti de legumes (cenoura e abobrinha) e molho pesto de manjericão e castanha de caju da Chef.",
+        "price": "R$ 78,00",
+        "img":""
+    }
+]

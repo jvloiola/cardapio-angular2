@@ -1,0 +1,44 @@
+[        
+    {
+        "name":"Chopp Stella Artois",
+        "description":"",
+        "price":"R$ 16,00 ",
+        "img":""
+    },
+    {
+        "name":"Stella Low Glúten",
+        "description":"",
+        "price":"R$ 18,00",
+        "img":""
+    },
+    {
+        "name":"Budweiser",
+        "description":"",
+        "price":"R$ 15,00 - Long neck ",
+        "img":""
+    },
+    {
+        "name":"Stella Artois",
+        "description":"",
+        "price":"R$ 17,00 - Long neck",
+        "img":""
+    },
+    {
+        "name":"Becks",
+        "description":"",
+        "price":"R$ 17,00",
+        "img":""
+    },
+    {
+        "name":"Coloradoo",
+        "description":"",
+        "price":"R$ 24,00",
+        "img":""
+    },
+    {
+        "name":"Orla Rio",
+        "description":"",
+        "price":"R$ 20,00 - Long neck",
+        "img":""
+    }
+]

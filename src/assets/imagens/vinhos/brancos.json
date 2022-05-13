@@ -1,0 +1,63 @@
+[
+    {
+        "name":"San Marzano Miluna Bianco Puglia , 2019",
+        "description":"Foi neste rótulo que a casta internacional Chardonnay encontrou a tradicional Malvasia Bianca, do sul da Itália. O resultado, harmonioso, emprestou aromas florais deliciosos, além de notas de pêssego e abacaxi em calda à taça. Delicado e mineral no paladar, é um vinho branco perfeito para servir mais geladinho e bebericar sem acompanhamento à beira da piscina. Se preferir, vai muito bem ao lado de queijos leves.",
+        "country":"Itália",
+        "location":"Manduria, San Marzano",
+        "grape":"Chardonnay, Malvasia Branca",
+        "type":"Branco",
+        "price":"R$ 130,00",
+        "img":""
+    },
+    {
+        "name":"Barone Montalto Acquerello Blend Bianco , 2019",
+        "description":"Um branco sicíliano para todos os dias, um jantar a dois, um dia depois do trabalho, a comemoração de uma boa notícia, brinde o agora!",
+        "country":"Itália",
+        "location":"Sicilia, Barone Montalto ",
+        "grape":"Pinot Grigio, Catarrato",
+        "type":"Branco",
+        "price":"R$ 140,00",
+        "img":""
+    },
+    {
+        "name":"",
+        "description":"",
+        "country":"",
+        "location":"",
+        "grape":"",
+        "type":"",
+        "price":"",
+        "img":""
+    },
+    {
+        "name":"",
+        "description":"",
+        "country":"",
+        "location":"",
+        "grape":"",
+        "type":"",
+        "price":"",
+        "img":""
+    },
+    {
+        "name":"",
+        "description":"",
+        "country":"",
+        "location":"",
+        "grape":"",
+        "type":"",
+        "price":"",
+        "img":""
+    },
+    {
+        "name":"",
+        "description":"",
+        "country":"",
+        "location":"",
+        "grape":"",
+        "type":"",
+        "price":"",
+        "img":""
+    }
+
+]

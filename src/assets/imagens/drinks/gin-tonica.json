@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Limão siciliano",
+        "description":"Gin, tônica e alecrim.",
+        "price":" R$ 44,00 - Com gin Gordons / R$ 49,00 - Com gin Beefeater ",
+        "img":""
+    },
+    {
+        "name":"Tangerina",
+        "description":"Gin, angustura e estrela de anis. ",
+        "price":" R$ 44,00 - Com gin Gordons / R$ 49,00 - Com gin Beefeater",
+        "img":""
+    },
+    {
+        "name":"Maça Verde",
+        "description":"Gin, manjericão e monin de maça verde.",
+        "price":" R$ 44,00 - Com gin Gordons / R$ 49,00 - Com gin Beefeater ",
+        "img":""
+    },
+    {
+        "name":"Point",
+        "description":"Gin , xarope de gengibre, suco de limão siciliano, suco de abacaxi e grenadine. ",
+        "price":" R$ 44,00 - Com gin Gordons / R$ 49,00 - Com gin Beefeater ",
+        "img":""
+    }
+]
